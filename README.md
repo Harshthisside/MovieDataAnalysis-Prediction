@@ -1,2 +1,2 @@
 # MovieDataAnalysis-Prediction
-This repository contain python code for analyzing movie data, performing Exploratory Data Analysis, Visualization, Training different data models and predictive their accuracy.
+This repository contains Python code for analyzing movie data, performing Exploratory Data Analysis, Visualization, Training different data models, and predicting their accuracy.
